@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Busqueda Secuencial\Busqueda Secuencial\bin\Debug\Busqueda Secuencial.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Busqueda Secuencial\Busqueda Secuencial\bin\Debug\Busqueda Secuencial.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Busqueda Secuencial\Busqueda Secuencial\bin\Debug\Busqueda Secuencial.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Busqueda Secuencial\Busqueda Secuencial\obj\Debug\Busqueda Secuencial.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Busqueda Secuencial\Busqueda Secuencial\obj\Debug\Busqueda Secuencial.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Busqueda Secuencial\Busqueda Secuencial\obj\Debug\Busqueda Secuencial.pdb
